@@ -1,0 +1,4 @@
+<resources>
+    <string name="show_joke_caption">Show Joke</string>
+    <string name="no_internet_toast">Not able to Connect to the Internet</string>
+</resources>
